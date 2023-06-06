@@ -15,3 +15,4 @@ Repository that contains notes, coding samples and everything around firebase fu
   - `firebase login`
 - Create Project by visiting https://console.firebase.google.com
 - Initiate firebase function
+  - `firebase init functions`
